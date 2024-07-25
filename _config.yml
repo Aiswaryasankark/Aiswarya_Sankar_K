@@ -10,17 +10,17 @@
 ############################
 
 # Name of website
-title: My website
+title: Aiswarya Sankar.K
 
 # Your name to show in the footer
-author: Some Person
+author: Myself
 
 ###############################################
 # --- List of links in the navigation bar --- #
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
+  About Me: "I'm an obsevational astronomer working on superluminous supernovae"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
@@ -50,21 +50,18 @@ round-avatar: true
 # You can change the order that they show up on the page by changing the order here.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
-  rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
-  patreon: DeanAttali
-  youtube: "@daattali"
-  whatsapp: 15551212
+  email: "aiswaryasankark@gmail.com"
+  #rss: true  # remove this line if you don't want to show an RSS link at the bottom
+  github: https://github.com/Aiswaryasankark/Aiswaryasankark/tree/main
+  #twitter: daattali
+  
 #  medium: yourname
 #  reddit: yourname
-#  linkedin: daattali
+  linkedin: https://www.linkedin.com/in/aiswarya-sankar-k-6ba2b222a/
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
-#  instagram: deanat78
+ # instagram: aiswarya_sankar_k
 #  spotify: yourname
 #  telephone: +14159998888
 #  steam: deanat78
@@ -74,8 +71,8 @@ social-network-links:
 #  calendly: yourname
 #  mastodon: instance.url/@username
 #  bluesky: yourname
-#  ORCID: your ORCID ID
-#  google-scholar: your google scholar
+ ORCID: 0009-0003-2609-3591
+  google-scholar: https://scholar.google.com/citations?user=ixEXikgAAAAJ&hl=en
 #  discord: "invite_code" or "users/userid" or "invite/invite_code" 
 #  kaggle: yourname
 #  hackerrank: yourname
@@ -94,13 +91,13 @@ rss-description: This website is a virtual proof that I'm awesome
 # Select which social network share links to show in posts
 share-links-active:
   twitter: true
-  facebook: true
+  #facebook: true
   linkedin: true
-  vk: false
+  #vk: false
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
+url-pretty: "Mywebsite.com"
 
 # Add the website title to the title of every page
 title-on-all-pages: true
